@@ -1,0 +1,7 @@
+# Q5 Output Report
+
+This program provides string similarity analysis. The output consists of:
+
+- Similarity percentage and match pattern for string pairs.
+
+Use this report to interpret the similarity results and understand how closely two strings match.

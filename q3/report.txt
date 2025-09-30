@@ -1,0 +1,7 @@
+# Q3 Output Report
+
+This program performs face detection and feature localization on images in a folder. The output consists of:
+
+- Annotated images with detected faces, eyes, and nose (saved in `output/`).
+
+Each output image shows rectangles around faces, eyes, and nose tips. Use this report to interpret the visual results and verify face feature localization.

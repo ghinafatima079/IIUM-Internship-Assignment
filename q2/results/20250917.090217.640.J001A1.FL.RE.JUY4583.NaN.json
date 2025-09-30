@@ -1,0 +1,23 @@
+{
+    "incoming_traffic": false,
+    "outgoing_traffic": true,
+    "vehicle_count": 1,
+    "vehicles": [
+        {
+            "type": "truck",
+            "bbox": [
+                780,
+                108,
+                1410,
+                1009
+            ],
+            "color": "rgb(108, 102, 98)",
+            "lane": "Right",
+            "make": null,
+            "logo_bbox": null,
+            "license_plate_present": false,
+            "license_plate_bbox": null,
+            "license_plate_color": null
+        }
+    ]
+}

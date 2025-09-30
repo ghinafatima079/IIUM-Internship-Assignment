@@ -1,0 +1,55 @@
+{
+    "incoming_traffic": true,
+    "outgoing_traffic": true,
+    "vehicle_count": 3,
+    "vehicles": [
+        {
+            "type": "car",
+            "bbox": [
+                336,
+                63,
+                763,
+                413
+            ],
+            "color": "rgb(77, 79, 86)",
+            "lane": "Left",
+            "make": "car",
+            "logo_bbox": null,
+            "license_plate_present": false,
+            "license_plate_bbox": null,
+            "license_plate_color": null
+        },
+        {
+            "type": "car",
+            "bbox": [
+                976,
+                652,
+                1531,
+                1272
+            ],
+            "color": "rgb(88, 90, 100)",
+            "lane": "Right",
+            "make": "car",
+            "logo_bbox": null,
+            "license_plate_present": false,
+            "license_plate_bbox": null,
+            "license_plate_color": null
+        },
+        {
+            "type": "truck",
+            "bbox": [
+                977,
+                652,
+                1538,
+                1271
+            ],
+            "color": "rgb(88, 91, 100)",
+            "lane": "Right",
+            "make": null,
+            "logo_bbox": null,
+            "license_plate_present": false,
+            "license_plate_bbox": null,
+            "license_plate_color": null
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "incoming_traffic": true,
+    "outgoing_traffic": true,
+    "vehicle_count": 2,
+    "vehicles": [
+        {
+            "type": "car",
+            "bbox": [
+                1414,
+                154,
+                1861,
+                551
+            ],
+            "color": "rgb(163, 163, 163)",
+            "lane": "Right",
+            "make": "car",
+            "logo_bbox": null,
+            "license_plate_present": false,
+            "license_plate_bbox": null,
+            "license_plate_color": null
+        },
+        {
+            "type": "car",
+            "bbox": [
+                707,
+                624,
+                1296,
+                1233
+            ],
+            "color": "rgb(155, 155, 155)",
+            "lane": "Left",
+            "make": "car",
+            "logo_bbox": null,
+            "license_plate_present": false,
+            "license_plate_bbox": null,
+            "license_plate_color": null
+        }
+    ]
+}

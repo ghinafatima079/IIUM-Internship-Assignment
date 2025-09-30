@@ -1,0 +1,23 @@
+{
+    "incoming_traffic": false,
+    "outgoing_traffic": true,
+    "vehicle_count": 1,
+    "vehicles": [
+        {
+            "type": "car",
+            "bbox": [
+                1073,
+                109,
+                1539,
+                537
+            ],
+            "color": "rgb(61, 61, 66)",
+            "lane": "Right",
+            "make": null,
+            "logo_bbox": null,
+            "license_plate_present": false,
+            "license_plate_bbox": null,
+            "license_plate_color": null
+        }
+    ]
+}

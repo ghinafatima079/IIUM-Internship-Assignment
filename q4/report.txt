@@ -1,0 +1,7 @@
+# Q4 Output Report
+
+This program performs real-time face blurring in video feeds. The output consists of:
+
+- Blurred face video recordings (saved in `output/` as `.avi` files).
+
+Each video shows faces blurred for privacy. Use this report to confirm successful face blurring and video saving.
