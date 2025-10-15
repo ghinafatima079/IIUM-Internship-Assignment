@@ -1,0 +1,174 @@
+{
+    "total_tested": 24,
+    "misclassified_count": 9,
+    "results": [
+        {
+            "filename": "cat1.jpg",
+            "predicted_category": "cat",
+            "predicted_label": "tiger cat",
+            "expected_category": "cat",
+            "misclassified": false
+        },
+        {
+            "filename": "cat10.jpg",
+            "predicted_category": "cat",
+            "predicted_label": "egyptian cat",
+            "expected_category": "cat",
+            "misclassified": false
+        },
+        {
+            "filename": "cat2.jpg",
+            "predicted_category": "other",
+            "predicted_label": "tabby",
+            "expected_category": "cat",
+            "misclassified": true
+        },
+        {
+            "filename": "cat3.jpg",
+            "predicted_category": "cat",
+            "predicted_label": "egyptian cat",
+            "expected_category": "cat",
+            "misclassified": false
+        },
+        {
+            "filename": "cat4.jpg",
+            "predicted_category": "cat",
+            "predicted_label": "tiger cat",
+            "expected_category": "cat",
+            "misclassified": false
+        },
+        {
+            "filename": "cat5.jpg",
+            "predicted_category": "cat",
+            "predicted_label": "tiger cat",
+            "expected_category": "cat",
+            "misclassified": false
+        },
+        {
+            "filename": "cat6.jpg",
+            "predicted_category": "cat",
+            "predicted_label": "tiger cat",
+            "expected_category": "cat",
+            "misclassified": false
+        },
+        {
+            "filename": "cat7.jpg",
+            "predicted_category": "cat",
+            "predicted_label": "egyptian cat",
+            "expected_category": "cat",
+            "misclassified": false
+        },
+        {
+            "filename": "cat8.jpg",
+            "predicted_category": "cat",
+            "predicted_label": "tiger cat",
+            "expected_category": "cat",
+            "misclassified": false
+        },
+        {
+            "filename": "cat9.jpg",
+            "predicted_category": "other",
+            "predicted_label": "tabby",
+            "expected_category": "cat",
+            "misclassified": true
+        },
+        {
+            "filename": "dog1.jpg",
+            "predicted_category": "dog",
+            "predicted_label": "yorkshire terrier",
+            "expected_category": "dog",
+            "misclassified": false
+        },
+        {
+            "filename": "dog10.jpg",
+            "predicted_category": "dog",
+            "predicted_label": "golden retriever",
+            "expected_category": "dog",
+            "misclassified": false
+        },
+        {
+            "filename": "dog11.jpg",
+            "predicted_category": "other",
+            "predicted_label": "pembroke",
+            "expected_category": "dog",
+            "misclassified": true
+        },
+        {
+            "filename": "dog12.jpg",
+            "predicted_category": "other",
+            "predicted_label": "tiger",
+            "expected_category": "dog",
+            "misclassified": true
+        },
+        {
+            "filename": "dog13.jpg",
+            "predicted_category": "dog",
+            "predicted_label": "african hunting dog",
+            "expected_category": "dog",
+            "misclassified": false
+        },
+        {
+            "filename": "dog14.jpg",
+            "predicted_category": "other",
+            "predicted_label": "kelpie",
+            "expected_category": "dog",
+            "misclassified": true
+        },
+        {
+            "filename": "dog2.jpg",
+            "predicted_category": "dog",
+            "predicted_label": "golden retriever",
+            "expected_category": "dog",
+            "misclassified": false
+        },
+        {
+            "filename": "dog3.jpg",
+            "predicted_category": "dog",
+            "predicted_label": "golden retriever",
+            "expected_category": "dog",
+            "misclassified": false
+        },
+        {
+            "filename": "dog4.jpg",
+            "predicted_category": "other",
+            "predicted_label": "collie",
+            "expected_category": "dog",
+            "misclassified": true
+        },
+        {
+            "filename": "dog5.jpg",
+            "predicted_category": "other",
+            "predicted_label": "samoyed",
+            "expected_category": "dog",
+            "misclassified": true
+        },
+        {
+            "filename": "dog6.jpg",
+            "predicted_category": "dog",
+            "predicted_label": "blenheim spaniel",
+            "expected_category": "dog",
+            "misclassified": false
+        },
+        {
+            "filename": "dog7.jpg",
+            "predicted_category": "other",
+            "predicted_label": "pomeranian",
+            "expected_category": "dog",
+            "misclassified": true
+        },
+        {
+            "filename": "dog8.jpg",
+            "predicted_category": "other",
+            "predicted_label": "pomeranian",
+            "expected_category": "dog",
+            "misclassified": true
+        },
+        {
+            "filename": "dog9.jpg",
+            "predicted_category": "dog",
+            "predicted_label": "golden retriever",
+            "expected_category": "dog",
+            "misclassified": false
+        }
+    ]
+}

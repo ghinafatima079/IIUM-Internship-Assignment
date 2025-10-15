@@ -133,7 +133,7 @@ class FaceDetectionApp:
             return
 
         # Create output folder if missing
-        output_dir = os.path.join(os.path.dirname(__file__), "output")
+        output_dir = os.path.join(os.path.dirname(__file__), "Q3_output")
         os.makedirs(output_dir, exist_ok=True)
 
         # Save with "_output" suffix
@@ -148,6 +148,6 @@ class FaceDetectionApp:
 # Run App
 if __name__ == "__main__":
     root = tk.Tk()
-    app = FaceDetectionApp(root, input_dir="q3/data/input/")  # change folder here
+    app = FaceDetectionApp(root, input_dir="q3/Q3_input_images/")  # change folder here
     root.mainloop()
     # GUI loop runs until window closed

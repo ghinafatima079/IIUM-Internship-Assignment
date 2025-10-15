@@ -1,9 +1,0 @@
-# Q7 Output Report
-
-This program classifies cat and dog images using a pretrained ImageNet model. The output consists of:
-
-- Classification results for each image
-- Misclassified images moved to `output/misclassified/`
-- A JSON report of misclassifications (`output/misclassified/report.json`)
-
-Use this report to review classification accuracy and analyze misclassified cases.

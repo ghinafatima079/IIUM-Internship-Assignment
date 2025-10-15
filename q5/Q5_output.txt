@@ -1,0 +1,21 @@
+
+------------------------------
+=== Match Report ===
+String1:       abc123-
+String2:       abxy145
+Match Pattern: ✔✔✘✘✘✘✘
+Similarity:    28.57%
+
+------------------------------
+=== Match Report ===
+String1:       kitten-
+String2:       sitting
+Match Pattern: ✘✔✔✔✘✔✘
+Similarity:    57.14%
+
+------------------------------
+=== Match Report ===
+String1:       hellooooo
+String2:       hellooooo
+Match Pattern: ✔✔✔✔✔✔✔✔✔
+Similarity:    100.0%
