@@ -28,6 +28,10 @@ def string_similarity(str1: str, str2: str):
         "Similarity%": round(similarity, 2)
     }
 
+def compare_strings(s1, s2):
+    res = string_similarity(s1, s2)
+    return res["Similarity%"], res["MatchPattern"].count("✔"), res["MatchPattern"].count("✘"), res["MatchPattern"]
+
 
 if __name__ == "__main__":
     s1 = input("Enter first string (6–10 chars): ").strip()
