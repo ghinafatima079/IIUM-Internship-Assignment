@@ -1,10 +1,5 @@
 #!/usr/bin/env python3
-"""
-Original implementation for license-plate broken-character detection.
-- Place your YOLO model file (LP-detection.pt) next to this script.
-- Put front/rear images in Q1_data/front and Q1_data/rear (or edit paths below).
-- Adjust OUTPUT_DIR to your desired absolute path.
-"""
+
 
 import os
 import csv
